@@ -15,4 +15,3 @@ dependencies:
     - absl-py
     - easydict
     - pillow
-    - pytesseract
